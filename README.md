@@ -1,1 +1,1 @@
-# Intermediate-Algorithm-Challenge
+# FCC Intermediate Algorithm Challenge
