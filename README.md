@@ -1,1 +1,1 @@
-# FCC Intermediate Algorithm Challenge
+# Cash Register
