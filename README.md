@@ -1,1 +1,1 @@
-# cash-register
+# Intermediate-Algorithm-Challenge
